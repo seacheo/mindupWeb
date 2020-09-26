@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import React, {useState, useEffect} from 'react'
 
 import {Card, Typography, Input, message} from 'antd'
 
@@ -21,6 +21,11 @@ const Contact = () => {
     const handleForm = (e) => {
         setForm({...form, [e.target.id] : e.target.value})
     } 
+
+
+    useEffect(() => {
+        document.title = "Mindup | Contact"
+    })
 
     const sendMessage = async () => {
         

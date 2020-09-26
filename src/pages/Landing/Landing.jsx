@@ -1,4 +1,4 @@
-import React from 'react'
+import React, {useEffect} from 'react'
 
 import Splash from './Splash'
 import Mission from './Mission'
@@ -10,6 +10,12 @@ import Map from './Map'
 import Photos from './Photos'
 
 const Landing = () => {
+
+
+    useEffect(() => {
+        document.title = "Mindup | Home"
+    })
+
 
     return(
         <div style={{marginBottom: "0px", }}>

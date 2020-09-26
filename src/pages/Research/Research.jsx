@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 
 import {Typography, Card, Collapse} from 'antd'
 
@@ -13,6 +13,11 @@ const {Panel} = Collapse
 const Research = () => {
 
     const [open, setOpen] = useState([])
+
+    useEffect(() => {
+        document.title = "Mindup | Research"
+    })
+
 
     return(
         <div style={{display: 'flex', width: '100%', alignItems: 'center', textAlign: 'center', flexDirection: 'column', margin: "50px 0px"}}>
