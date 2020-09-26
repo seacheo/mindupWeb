@@ -7,7 +7,6 @@ import { ExclamationOutlined, LoadingOutlined, SearchOutlined, DollarCircleOutli
 
 import {motion} from 'framer-motion'
 
-import squiggle from '../../assets/squiggle-blue.svg'
 
 
 const {Text, Title} = Typography

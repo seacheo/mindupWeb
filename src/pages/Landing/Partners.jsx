@@ -4,10 +4,11 @@ import {Typography} from 'antd'
 
 import {motion} from 'framer-motion'
 
-import fastily from './fastily-logo.png'
-import muvik from './muvik-logo.png'
-import m2 from './m2-logo.png'
-import bci from './openbci-logo.png'
+import fastily from '../../assets/partners/fastily-logo.png'
+import muvik from '../../assets/partners/muvik-logo.png'
+import m2 from '../../assets/partners/m2-logo.png'
+import bci from '../../assets/partners/openbci-logo.png'
+
 const {Title} = Typography
 
 const Partners = () => {

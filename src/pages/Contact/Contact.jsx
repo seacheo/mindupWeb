@@ -4,7 +4,7 @@ import {Card, Typography, Input, message} from 'antd'
 
 import useMedia from '../../hooks/useMedia'
 
-import pattern from '../../assets/pattern.svg'
+import pattern from '../../assets/pattern-bg/pattern.svg'
 
 import { MailOutlined, QuestionOutlined } from '@ant-design/icons';
 

@@ -10,9 +10,8 @@ import {motion} from 'framer-motion'
 
 
 
-import journal from '../../assets/journal.png'
-import mockup from './mockup.gif'
-import pattern from '../../assets/pattern.svg'
+import mockup from '../../assets/product/mockup.gif'
+
 
 
 

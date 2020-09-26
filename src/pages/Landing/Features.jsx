@@ -1,6 +1,6 @@
 import React from 'react'
 
-import features from '../../assets/features.png'
+import features from '../../assets/product/features.png'
 
 import {Typography, Image} from 'antd'
 

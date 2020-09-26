@@ -5,7 +5,7 @@ import { Row, Col, Typography, Button, Dropdown, Divider,Menu, Drawer} from 'ant
 
 import { SearchOutlined, TwitterOutlined, TeamOutlined, MenuOutlined, YoutubeFilled, HomeOutlined} from '@ant-design/icons';
 
-import logo from '../../assets/mindup-logo.png'
+import logo from '../../assets/product/mindup-logo.png'
 
 import useMedia from '../../hooks/useMedia'
 import {motion} from 'framer-motion'

@@ -3,14 +3,12 @@ import useMedia from '../../hooks/useMedia'
 
 import {Card, Typography, Image} from 'antd'
 
-import classroom from '../../assets/temp.jpg'
 
-import squiggle from '../../assets/fancy-squiggle.svg'
-import bg from '../../assets/bg-image.png'
+import squiggle from '../../assets/pattern-bg/fancy-squiggle.svg'
+import bg from '../../assets/pattern-bg/bg-image.png'
 
 const {Text, Title, Paragraph} = Typography
 
-const bgURL = "https://images.unsplash.com/photo-1509062522246-3755977927d7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1608&q=80"
 
 
 const Mission = () => {

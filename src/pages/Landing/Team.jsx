@@ -4,9 +4,10 @@ import {Card, Avatar, Typography} from 'antd'
 
 import TeamMember from './TeamMeber'
 
-import brian from './brian.png'
-import sean from './sean.png'
-import avi from './avi.png'
+import brian from '../../assets/team/brian.png'
+import sean from '../../assets/team/sean.png'
+import avi from '../../assets/team/avi.png'
+
 
 const {Title, Text} = Typography
 
