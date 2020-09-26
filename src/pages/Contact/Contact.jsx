@@ -41,7 +41,7 @@ const Contact = () => {
             try {
                 // send user's message somehwere
 
-                message.success("Message Sent")
+                message.success("Message Sent, we will get back to you soon", 10)
             } catch (err) {
                 message.error("Server Error")
             }

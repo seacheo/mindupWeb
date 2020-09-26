@@ -30,7 +30,7 @@ const Splash = () => {
         if(emailRegEx.test(email)){
             try {
                 // send user's email somewhere to handle
-                message.success("Email Sent")
+                message.success("You've been added to our mailing list", 10)
             } catch (err) {
                 message.error("Server Error")
             }
