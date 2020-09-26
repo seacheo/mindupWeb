@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "//sean8322.github.io/mindupWeb/static/css/main.5134a8a5.chunk.css",
+    "main.js": "//sean8322.github.io/mindupWeb/static/js/main.d22c5bd8.chunk.js",
+    "main.js.map": "//sean8322.github.io/mindupWeb/static/js/main.d22c5bd8.chunk.js.map",
+    "runtime-main.js": "//sean8322.github.io/mindupWeb/static/js/runtime-main.df7f5d4a.js",
+    "runtime-main.js.map": "//sean8322.github.io/mindupWeb/static/js/runtime-main.df7f5d4a.js.map",
+    "static/js/2.c9dd42ca.chunk.js": "//sean8322.github.io/mindupWeb/static/js/2.c9dd42ca.chunk.js",
+    "static/js/2.c9dd42ca.chunk.js.map": "//sean8322.github.io/mindupWeb/static/js/2.c9dd42ca.chunk.js.map",
+    "index.html": "//sean8322.github.io/mindupWeb/index.html",
+    "precache-manifest.d5a3d47ce2139136fe000ac28f3e159e.js": "//sean8322.github.io/mindupWeb/precache-manifest.d5a3d47ce2139136fe000ac28f3e159e.js",
+    "service-worker.js": "//sean8322.github.io/mindupWeb/service-worker.js",
+    "static/css/main.5134a8a5.chunk.css.map": "//sean8322.github.io/mindupWeb/static/css/main.5134a8a5.chunk.css.map",
+    "static/js/2.c9dd42ca.chunk.js.LICENSE.txt": "//sean8322.github.io/mindupWeb/static/js/2.c9dd42ca.chunk.js.LICENSE.txt",
+    "static/media/avi.png": "//sean8322.github.io/mindupWeb/static/media/avi.c7b74611.png",
+    "static/media/bg-image.png": "//sean8322.github.io/mindupWeb/static/media/bg-image.2bffaf55.png",
+    "static/media/brian.png": "//sean8322.github.io/mindupWeb/static/media/brian.05927245.png",
+    "static/media/fancy-squiggle.svg": "//sean8322.github.io/mindupWeb/static/media/fancy-squiggle.039ae07b.svg",
+    "static/media/fastily-logo.png": "//sean8322.github.io/mindupWeb/static/media/fastily-logo.e8126318.png",
+    "static/media/features.png": "//sean8322.github.io/mindupWeb/static/media/features.c51db190.png",
+    "static/media/mindup-logo.png": "//sean8322.github.io/mindupWeb/static/media/mindup-logo.49dbb9f5.png",
+    "static/media/mockup.gif": "//sean8322.github.io/mindupWeb/static/media/mockup.1dd3e63c.gif",
+    "static/media/openbci-logo.png": "//sean8322.github.io/mindupWeb/static/media/openbci-logo.576de3d7.png",
+    "static/media/pattern.svg": "//sean8322.github.io/mindupWeb/static/media/pattern.483c96ff.svg",
+    "static/media/sean.png": "//sean8322.github.io/mindupWeb/static/media/sean.16dd7cb3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df7f5d4a.js",
+    "static/js/2.c9dd42ca.chunk.js",
+    "static/css/main.5134a8a5.chunk.css",
+    "static/js/main.d22c5bd8.chunk.js"
+  ]
+}
