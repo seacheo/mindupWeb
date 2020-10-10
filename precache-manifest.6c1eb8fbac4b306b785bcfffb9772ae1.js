@@ -1,27 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ddce19e280fc8ca088f402da3af3b859",
+    "revision": "54e6533159cef177d50664e95d76b889",
     "url": "//sean8322.github.io/mindupWeb/index.html"
   },
   {
-    "revision": "c3d6f028e1ea2f6dcbd8",
+    "revision": "03ff9ce4695b2c9444a5",
     "url": "//sean8322.github.io/mindupWeb/static/css/main.5134a8a5.chunk.css"
   },
   {
-    "revision": "36f45d295ea6c9dba0b3",
-    "url": "//sean8322.github.io/mindupWeb/static/js/2.c9dd42ca.chunk.js"
+    "revision": "c8be7f1b26ef6bd1e331",
+    "url": "//sean8322.github.io/mindupWeb/static/js/2.a2db5232.chunk.js"
   },
   {
     "revision": "2069192f75c6f3fb6247231eea52f248",
-    "url": "//sean8322.github.io/mindupWeb/static/js/2.c9dd42ca.chunk.js.LICENSE.txt"
+    "url": "//sean8322.github.io/mindupWeb/static/js/2.a2db5232.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c3d6f028e1ea2f6dcbd8",
-    "url": "//sean8322.github.io/mindupWeb/static/js/main.90b096a1.chunk.js"
+    "revision": "03ff9ce4695b2c9444a5",
+    "url": "//sean8322.github.io/mindupWeb/static/js/main.36f27c60.chunk.js"
   },
   {
     "revision": "67c146d6a087b0c5451e",
     "url": "//sean8322.github.io/mindupWeb/static/js/runtime-main.df7f5d4a.js"
+  },
+  {
+    "revision": "5bb9db2702bdf07cc2d8081f256b9425",
+    "url": "//sean8322.github.io/mindupWeb/static/media/BW1.5bb9db27.JPG"
+  },
+  {
+    "revision": "f26188b18355d17580e565323d4cd63b",
+    "url": "//sean8322.github.io/mindupWeb/static/media/BW2.f26188b1.png"
   },
   {
     "revision": "c7b74611baad3b5347fd6c785c012b20",
