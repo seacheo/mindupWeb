@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "//sean8322.github.io/mindupWeb/static/css/main.5134a8a5.chunk.css",
-    "main.js": "//sean8322.github.io/mindupWeb/static/js/main.79173d62.chunk.js",
-    "main.js.map": "//sean8322.github.io/mindupWeb/static/js/main.79173d62.chunk.js.map",
+    "main.js": "//sean8322.github.io/mindupWeb/static/js/main.2b414bd6.chunk.js",
+    "main.js.map": "//sean8322.github.io/mindupWeb/static/js/main.2b414bd6.chunk.js.map",
     "runtime-main.js": "//sean8322.github.io/mindupWeb/static/js/runtime-main.df7f5d4a.js",
     "runtime-main.js.map": "//sean8322.github.io/mindupWeb/static/js/runtime-main.df7f5d4a.js.map",
     "static/js/2.a2db5232.chunk.js": "//sean8322.github.io/mindupWeb/static/js/2.a2db5232.chunk.js",
     "static/js/2.a2db5232.chunk.js.map": "//sean8322.github.io/mindupWeb/static/js/2.a2db5232.chunk.js.map",
     "index.html": "//sean8322.github.io/mindupWeb/index.html",
-    "precache-manifest.7f3e565525373f2325f050c9b28ce2b2.js": "//sean8322.github.io/mindupWeb/precache-manifest.7f3e565525373f2325f050c9b28ce2b2.js",
+    "precache-manifest.541163e8b7b86ceb551f56014919790e.js": "//sean8322.github.io/mindupWeb/precache-manifest.541163e8b7b86ceb551f56014919790e.js",
     "service-worker.js": "//sean8322.github.io/mindupWeb/service-worker.js",
     "static/css/main.5134a8a5.chunk.css.map": "//sean8322.github.io/mindupWeb/static/css/main.5134a8a5.chunk.css.map",
     "static/js/2.a2db5232.chunk.js.LICENSE.txt": "//sean8322.github.io/mindupWeb/static/js/2.a2db5232.chunk.js.LICENSE.txt",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.df7f5d4a.js",
     "static/js/2.a2db5232.chunk.js",
     "static/css/main.5134a8a5.chunk.css",
-    "static/js/main.79173d62.chunk.js"
+    "static/js/main.2b414bd6.chunk.js"
   ]
 }
