@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c1e3708c63a18e7d730da4e0c41309b9",
+    "revision": "9ad67e5c23140f28d0dcd173dd5a7ffe",
     "url": "//sean8322.github.io/mindupWeb/index.html"
   },
   {
-    "revision": "2fc10048b150de4dd79f",
-    "url": "//sean8322.github.io/mindupWeb/static/css/main.5134a8a5.chunk.css"
+    "revision": "0455519bd0ba46680d1c",
+    "url": "//sean8322.github.io/mindupWeb/static/css/main.0e69287d.chunk.css"
   },
   {
     "revision": "c8be7f1b26ef6bd1e331",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "//sean8322.github.io/mindupWeb/static/js/2.a2db5232.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2fc10048b150de4dd79f",
+    "revision": "0455519bd0ba46680d1c",
     "url": "//sean8322.github.io/mindupWeb/static/js/main.8170ed4e.chunk.js"
   },
   {
