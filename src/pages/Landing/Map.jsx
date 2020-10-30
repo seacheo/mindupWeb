@@ -15,7 +15,7 @@ const Map = () => {
 
     const [content, setContent] = useState("");
 
-    const availabileLocations = ['United States of America', 'Canada', 'Japan', 'United Kingdom', 'Australia', 'Mexico', 'Germany', 'Italy', 'New Zealand', 'Greenland', 'Iceland', 'Sweden', 'France', 'Spain', 'Poland', 'Switzerland', 'Norway']
+    const availabileLocations = ['United States of America', 'Canada', 'Japan', 'United Kingdom', 'Australia', 'Mexico', 'Germany', 'Italy', 'New Zealand', 'Greenland', 'Iceland', 'Sweden', 'Turkey', 'Spain', 'Poland', 'Switzerland', 'Norway']
 
     const availableStyle = {
         default: {
