@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "//sean8322.github.io/mindupWeb/static/css/main.b20136f9.chunk.css",
-    "main.js": "//sean8322.github.io/mindupWeb/static/js/main.ca6c2869.chunk.js",
-    "main.js.map": "//sean8322.github.io/mindupWeb/static/js/main.ca6c2869.chunk.js.map",
+    "main.js": "//sean8322.github.io/mindupWeb/static/js/main.7aa6bc83.chunk.js",
+    "main.js.map": "//sean8322.github.io/mindupWeb/static/js/main.7aa6bc83.chunk.js.map",
     "runtime-main.js": "//sean8322.github.io/mindupWeb/static/js/runtime-main.df7f5d4a.js",
     "runtime-main.js.map": "//sean8322.github.io/mindupWeb/static/js/runtime-main.df7f5d4a.js.map",
     "static/js/2.987af43b.chunk.js": "//sean8322.github.io/mindupWeb/static/js/2.987af43b.chunk.js",
     "static/js/2.987af43b.chunk.js.map": "//sean8322.github.io/mindupWeb/static/js/2.987af43b.chunk.js.map",
     "index.html": "//sean8322.github.io/mindupWeb/index.html",
-    "precache-manifest.061e2f059e88ef5bfce8a87090cac4b7.js": "//sean8322.github.io/mindupWeb/precache-manifest.061e2f059e88ef5bfce8a87090cac4b7.js",
+    "precache-manifest.eb03b559f2c7852260f4ff052d37127b.js": "//sean8322.github.io/mindupWeb/precache-manifest.eb03b559f2c7852260f4ff052d37127b.js",
     "service-worker.js": "//sean8322.github.io/mindupWeb/service-worker.js",
     "static/css/main.b20136f9.chunk.css.map": "//sean8322.github.io/mindupWeb/static/css/main.b20136f9.chunk.css.map",
     "static/js/2.987af43b.chunk.js.LICENSE.txt": "//sean8322.github.io/mindupWeb/static/js/2.987af43b.chunk.js.LICENSE.txt",
@@ -17,7 +17,7 @@
     "static/media/brian.png": "//sean8322.github.io/mindupWeb/static/media/brian.05927245.png",
     "static/media/fancy-squiggle.svg": "//sean8322.github.io/mindupWeb/static/media/fancy-squiggle.039ae07b.svg",
     "static/media/fastily-logo.png": "//sean8322.github.io/mindupWeb/static/media/fastily-logo.e8126318.png",
-    "static/media/features.png": "//sean8322.github.io/mindupWeb/static/media/features.360c5c32.png",
+    "static/media/features.png": "//sean8322.github.io/mindupWeb/static/media/features.c51db190.png",
     "static/media/mindup-logo.png": "//sean8322.github.io/mindupWeb/static/media/mindup-logo.49dbb9f5.png",
     "static/media/mockup.gif": "//sean8322.github.io/mindupWeb/static/media/mockup.1dd3e63c.gif",
     "static/media/openbci-logo.png": "//sean8322.github.io/mindupWeb/static/media/openbci-logo.576de3d7.png",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.df7f5d4a.js",
     "static/js/2.987af43b.chunk.js",
     "static/css/main.b20136f9.chunk.css",
-    "static/js/main.ca6c2869.chunk.js"
+    "static/js/main.7aa6bc83.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9de7d42b28be258df10de4a3d59d59a2",
+    "revision": "16f8d60116a7d4a1249d339ed247f60a",
     "url": "//sean8322.github.io/mindupWeb/index.html"
   },
   {
-    "revision": "502de963f284813ca918",
+    "revision": "5bb7500b59625d5d8f86",
     "url": "//sean8322.github.io/mindupWeb/static/css/main.b20136f9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "//sean8322.github.io/mindupWeb/static/js/2.987af43b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "502de963f284813ca918",
-    "url": "//sean8322.github.io/mindupWeb/static/js/main.ca6c2869.chunk.js"
+    "revision": "5bb7500b59625d5d8f86",
+    "url": "//sean8322.github.io/mindupWeb/static/js/main.7aa6bc83.chunk.js"
   },
   {
     "revision": "67c146d6a087b0c5451e",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "//sean8322.github.io/mindupWeb/static/media/fastily-logo.e8126318.png"
   },
   {
-    "revision": "360c5c328083fb5ad79451e9a6830ea5",
-    "url": "//sean8322.github.io/mindupWeb/static/media/features.360c5c32.png"
+    "revision": "c51db19098cc42d8c0ebbe492764b0e4",
+    "url": "//sean8322.github.io/mindupWeb/static/media/features.c51db190.png"
   },
   {
     "revision": "49dbb9f53b81a9c2219fbf49cc1ae0df",
