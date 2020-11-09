@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4942c6de680d7a3fd4cc6835598c489e",
+    "revision": "b1dc312ca211ed8171eb105dd40f664d",
     "url": "//mindup.ai/index.html"
   },
   {
-    "revision": "1a8dc0534e575bb7d63e",
-    "url": "//mindup.ai/static/css/main.b20136f9.chunk.css"
+    "revision": "ae9abaac554b8999773f",
+    "url": "//mindup.ai/static/css/main.56f44b9d.chunk.css"
   },
   {
     "revision": "f79a8992c8173d766b8c",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "//mindup.ai/static/js/2.c8f78275.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1a8dc0534e575bb7d63e",
-    "url": "//mindup.ai/static/js/main.516879a3.chunk.js"
+    "revision": "ae9abaac554b8999773f",
+    "url": "//mindup.ai/static/js/main.cf6dd8ac.chunk.js"
   },
   {
     "revision": "257257520554513ebb87",
