@@ -1,19 +1,17 @@
 {
   "files": {
     "main.css": "//sean8322.github.io/mindupWeb/static/css/main.b20136f9.chunk.css",
-    "main.js": "//sean8322.github.io/mindupWeb/static/js/main.376f583f.chunk.js",
-    "main.js.map": "//sean8322.github.io/mindupWeb/static/js/main.376f583f.chunk.js.map",
+    "main.js": "//sean8322.github.io/mindupWeb/static/js/main.73471474.chunk.js",
+    "main.js.map": "//sean8322.github.io/mindupWeb/static/js/main.73471474.chunk.js.map",
     "runtime-main.js": "//sean8322.github.io/mindupWeb/static/js/runtime-main.df7f5d4a.js",
     "runtime-main.js.map": "//sean8322.github.io/mindupWeb/static/js/runtime-main.df7f5d4a.js.map",
-    "static/js/2.5847d6f5.chunk.js": "//sean8322.github.io/mindupWeb/static/js/2.5847d6f5.chunk.js",
-    "static/js/2.5847d6f5.chunk.js.map": "//sean8322.github.io/mindupWeb/static/js/2.5847d6f5.chunk.js.map",
+    "static/js/2.c0357bc8.chunk.js": "//sean8322.github.io/mindupWeb/static/js/2.c0357bc8.chunk.js",
+    "static/js/2.c0357bc8.chunk.js.map": "//sean8322.github.io/mindupWeb/static/js/2.c0357bc8.chunk.js.map",
     "index.html": "//sean8322.github.io/mindupWeb/index.html",
-    "precache-manifest.5b164b86e6607fc29c52c40e78fab54b.js": "//sean8322.github.io/mindupWeb/precache-manifest.5b164b86e6607fc29c52c40e78fab54b.js",
+    "precache-manifest.e9069408c0eb6bd663374995343c4d98.js": "//sean8322.github.io/mindupWeb/precache-manifest.e9069408c0eb6bd663374995343c4d98.js",
     "service-worker.js": "//sean8322.github.io/mindupWeb/service-worker.js",
     "static/css/main.b20136f9.chunk.css.map": "//sean8322.github.io/mindupWeb/static/css/main.b20136f9.chunk.css.map",
-    "static/js/2.5847d6f5.chunk.js.LICENSE.txt": "//sean8322.github.io/mindupWeb/static/js/2.5847d6f5.chunk.js.LICENSE.txt",
-    "static/media/BW1.JPG": "//sean8322.github.io/mindupWeb/static/media/BW1.5bb9db27.JPG",
-    "static/media/BW2.png": "//sean8322.github.io/mindupWeb/static/media/BW2.f26188b1.png",
+    "static/js/2.c0357bc8.chunk.js.LICENSE.txt": "//sean8322.github.io/mindupWeb/static/js/2.c0357bc8.chunk.js.LICENSE.txt",
     "static/media/avi.png": "//sean8322.github.io/mindupWeb/static/media/avi.c7b74611.png",
     "static/media/bg-image.png": "//sean8322.github.io/mindupWeb/static/media/bg-image.2bffaf55.png",
     "static/media/brian.png": "//sean8322.github.io/mindupWeb/static/media/brian.05927245.png",
@@ -28,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.df7f5d4a.js",
-    "static/js/2.5847d6f5.chunk.js",
+    "static/js/2.c0357bc8.chunk.js",
     "static/css/main.b20136f9.chunk.css",
-    "static/js/main.376f583f.chunk.js"
+    "static/js/main.73471474.chunk.js"
   ]
 }
